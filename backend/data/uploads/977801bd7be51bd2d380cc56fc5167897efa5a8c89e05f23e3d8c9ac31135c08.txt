@@ -1,0 +1,17 @@
+Jane Doe
+Senior Software Engineer
+
+7 years of experience building backend systems in Python. Deep expertise in
+PostgreSQL schema design, REST API development, and containerized deployment
+on AWS using Docker and ECS. Comfortable operating production services under
+load and mentoring junior engineers.
+
+Skills: Python, Django, PostgreSQL, Docker, AWS, ECS, REST APIs, Redis, CI/CD
+
+Experience:
+- Staff Engineer, Acme Corp (2021-present): led backend platform migration to
+  Python microservices deployed on AWS/Docker.
+- Backend Engineer, Widget Inc (2017-2021): built REST APIs and PostgreSQL
+  data models for the core product.
+
+Education: B.S. Computer Science, State University

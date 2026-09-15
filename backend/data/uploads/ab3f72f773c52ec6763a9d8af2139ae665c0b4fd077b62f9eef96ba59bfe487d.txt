@@ -1,0 +1,14 @@
+John Smith
+Junior Frontend Developer
+
+1 year of experience building user interfaces with React and TypeScript.
+Some exposure to Node.js for small backend scripts. Eager to grow into a
+full-stack role.
+
+Skills: JavaScript, React, TypeScript, HTML, CSS, Node.js
+
+Experience:
+- Frontend Developer, StartupCo (2024-present): built React components and
+  internal admin dashboards.
+
+Education: B.A. Graphic Design, City College

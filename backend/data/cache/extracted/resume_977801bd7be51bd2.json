@@ -1,0 +1,24 @@
+{
+  "name": "Jane Doe",
+  "titles": [
+    "Senior Software Engineer"
+  ],
+  "years_experience": 7,
+  "skills": [
+    "Python",
+    "Django",
+    "PostgreSQL",
+    "Docker",
+    "AWS",
+    "ECS",
+    "REST APIs",
+    "Redis",
+    "CI/CD"
+  ],
+  "education": [
+    "B.S. Computer Science",
+    "State University"
+  ],
+  "certifications": [],
+  "summary": ""
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Senior Backend Engineer",
+  "required_skills": [
+    "Python",
+    "PostgreSQL",
+    "REST API design",
+    "Docker",
+    "AWS"
+  ],
+  "nice_to_have_skills": [
+    "Kubernetes",
+    "Kafka",
+    "Go"
+  ],
+  "min_years_experience": 5,
+  "education_requirement": "Bachelor's degree in Computer Science or equivalent experience.",
+  "responsibilities": [
+    "Design and build scalable backend services in Python",
+    "Own data models and PostgreSQL schema design",
+    "Deploy and operate services on AWS using Docker containers",
+    "Collaborate with frontend engineers on REST API contracts"
+  ]
+}

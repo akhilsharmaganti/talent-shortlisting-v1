@@ -1,0 +1,20 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+
+# Backend runtime data
+backend/screening.db
+backend/data/uploads/*
+backend/data/cache/extracted/*
+!backend/data/uploads/.gitkeep
+!backend/data/cache/extracted/.gitkeep
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db

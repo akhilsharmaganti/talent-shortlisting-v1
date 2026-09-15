@@ -1,0 +1,21 @@
+{
+  "name": "John Smith",
+  "titles": [
+    "Junior Frontend Developer"
+  ],
+  "years_experience": 1,
+  "skills": [
+    "JavaScript",
+    "React",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "Node.js"
+  ],
+  "education": [
+    "B.A. Graphic Design",
+    "City College"
+  ],
+  "certifications": [],
+  "summary": "Built React components and internal admin dashboards for StartupCo. Gained experience with user interfaces. Eager to grow into a full-stack role."
+}
